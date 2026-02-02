@@ -1,21 +1,16 @@
-# Noon Internship Portfolio (React)
+# Adham Mahmoud
+Junior Full-Stack Developer | MIS Student
 
-One repo contains 6 mini-projects as routes.
-Built to showcase practical React skills fast.
+## Tech Stack
+- Frontend: React, TailwindCSS
+- Backend: PHP, Laravel
+- Database: MySQL
+- Tools: Git, GitHub, Postman
 
-## Projects
-- Catalog: search, filters, sorting, pagination, route params
-- Cart + Checkout: localStorage, coupon logic, validation
-- Admin Dashboard: table, filters, charts (recharts)
-- Auth: login/register, protected routes, token mock
-- API Products: fetch + retry + favorites
-- UI Clone: responsive layout + mini slider
+## Featured Projects
+🚧 Projects will be added soon
 
-## Run
-```bash
-npm i
-npm run dev
-```
+## Currently Learning
+- Advanced Laravel
+- REST APIs
 
-## Split into 6 repos later
-Copy one folder from `src/projects/<name>` into a fresh Vite React project and wire routes as needed.
