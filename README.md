@@ -11,6 +11,6 @@ Junior Full-Stack Developer | MIS Student
 🚧 Projects will be added soon
 
 ## Currently Learning
-- Advanced Laravel
+- intermediate Laravel
 - REST APIs
 
