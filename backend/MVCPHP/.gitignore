@@ -1,0 +1,11 @@
+# secrets
+config/db.php
+connect.php
+connection.php
+
+# logs
+*.log
+
+# editor
+.vscode/
+.idea/
